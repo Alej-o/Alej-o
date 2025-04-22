@@ -15,7 +15,7 @@
 ### [Trollen](https://github.com/elarion/trollen-backend)  
 Application sociale immersive avec chat anonyme et éléments de RPG (React Native + Node.js)
 
-### [Tweet App](https://github.com/Alej-o/tweet-app-backend)  
+### [Tweet App](https://github.com/Alej-o/tweet-backend)  
 Clone de Twitter minimaliste avec publication, like et suppression de tweets (React + Node + MongoDB)
 
 ## ✨ Ce que j’aime
